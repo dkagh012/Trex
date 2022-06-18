@@ -100,7 +100,11 @@ JAVASCRIPT를 이용해 팀원의 클릭을 인식해 공룡이 점프를 하여
     (4) 장애물과 충돌하면 Game Over를 출력하고 다시 마우스를 클릭시 재 시작이 됩니다.<br>
   </h4>
 </div>
-
+  <h4>
+    <img src="1.PNG">
+    <img src="2.PNG">
+    <img src="3.PNG">
+  </h4>
 <div>
   <h3>동영상 링크</h3>
   <h4>
